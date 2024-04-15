@@ -31,7 +31,7 @@ function App() {
       <div>
       <h2>Login with Facebook</h2>
       <FacebookLogin
-        appId="7550976808327371"
+        appId="1089471788931508"
         autoLoad={false}
         fields="name,email,picture"
         callback={responseFacebook}
